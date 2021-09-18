@@ -1,0 +1,21 @@
+{
+    "name": "vin-vs-theme",
+    "displayName": "vinderre",
+    "description": "vs theme by JanQueralt",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VinDerre",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VinDerre-color-theme.json"
+            }
+        ]
+    }
+}
