@@ -1,4 +1,0 @@
-# VinDerre
-## vs theme
-
-**Enjoy!**
