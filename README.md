@@ -1,4 +1,4 @@
 # vinderre
 ### VS theme
 
-you can watch my web [(web)https://google.com]
+you can watch my web [https://google.com]
