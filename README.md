@@ -1,4 +1,4 @@
 # vinderre
 ### VS theme
 
-· Copyright
+· Copyright @Janqueraltt
